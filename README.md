@@ -20,32 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+E-book "Como Usar IA para Criar Conteúdo Digital"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book é um guia prático para profissionais de marketing, criadores de conteúdo e entusiastas da tecnologia que desejam explorar o uso da Inteligência Artificial em suas produções. Ele cobre as principais ferramentas de IA generativa, oferecendo dicas e orientações para criar textos, imagens, vídeos e áudios de forma eficiente e natural.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Utilizado para gerar conteúdo textual, como descrições e explicações, de forma clara e prática.
+Canva: Para design gráfico do e-book, incluindo capa, layout e formatação de imagens geradas.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Planejamento do Conteúdo: Estruturei o conteúdo em capítulos, cobrindo tópicos como introdução à IA generativa, melhores ferramentas e dicas de personalização.
+2. Geração e Edição de Texto: Usei o ChatGPT para desenvolver o texto do e-book, garantindo uma linguagem prática e acessível para o público.
+3. Design Visual: No Canva, criei a capa, organizei os capítulos, e adicionei elementos visuais para melhorar a estética e tornar o conteúdo mais envolvente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Link para o e-book](https://www.canva.com/design/DAGWCKTbgnY/7yCP2_aQz26KLrU_sj5xWQ/edit?utm_content=DAGWCKTbgnY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A criação deste e-book mostrou como a IA pode ser uma ferramenta poderosa e ágil para auxiliar na criação de conteúdos informativos e inspiradores. Utilizar a IA para simplificar temas complexos foi essencial para atingir um público mais amplo, demonstrando o valor da tecnologia como aliada no processo criativo.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
